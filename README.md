@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# Share_my_ride🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HackStar
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aksa Samuval - college of engineering pathanapuram
+- Member 2: Alfiya s -  college of engineering pathanapuram
+- Member 3: Adhira R -  college of engineering pathanapuram
 
 ### Hosted Project Link
 [mention your project hosted project link here]
