@@ -14,21 +14,20 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Our carpooling project offers a user-friendly platform that matches commuters with compatible routes using advanced algorithms and real-time data analysis. By integrating with mobile devices and social media, it fosters community and reduces traffic congestion and emissions.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Traffic congestion and high fuel prices cause dificulties for daily personal vechicle users and personal vehicles also contribute personal vehicles.
 ### The Solution
-[How are you solving it? Keep it fun!]
+Our carpooling project uses advanced algorithms and real-time data to match commuters with compatible routes, reducing traffic congestion and emissions while fostering community through mobile and social media integration.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Html,CSS,Nodejs
+- Bootstrap CSS,Express.js
+- Popper.js,Mongoos
+- CORS
 
 For Hardware:
 - [List main components]
@@ -36,13 +35,17 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+1.setup the backend
+2.setup the frontend(html,css)
+3.run the application
 # Installation
-[commands]
+-npm init -y
+-npm install express mongoosem cors dontenv 
+-npm install bootstrap @popperjs/core
 
 # Run
-[commands]
-
+-cd/d:/CAR-POOLING-SYSTEM
+-npm run start
 ### Project Documentation
 For Software:
 
