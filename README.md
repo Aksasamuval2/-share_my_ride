@@ -11,7 +11,7 @@
 - Member 3: Adhira R -  college of engineering pathanapuram
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/Aksasamuval2/-share_my_ride
 
 ### Project Description
 Our carpooling project offers a user-friendly platform that matches commuters with compatible routes using advanced algorithms and real-time data analysis. By integrating with mobile devices and social media, it fosters community and reduces traffic congestion and emissions.
@@ -50,14 +50,17 @@ For Hardware:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+(https://github.com/user-attachments/assets/b4ed208e-a327-485b-8e5c-6976ad4d2468)
+cover Page.this page shows features like login as user, login as driver,book now.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+(https://github.com/user-attachments/assets/6bd8f1dc-0194-4407-abf7-7825f0998471)login as user
+here this page contains username,password for those who registered,for those who doesn't have any account can create a account.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+(https://github.com/user-attachments/assets/3646467a-2680-4887-9977-c8e8da0ff9d6)login as driver
+here this page contains username,password for those who registered,for those who doesn't have any account can create a account.
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -82,8 +85,9 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](https://github.com/user-attachments/assets/e85d42d4-c20c-45fb-afd4-e564b12cb8f5)
+we created a car pooling system named share_my_ride web app.it contains driver_login module,user_login module,book now module for booking.
+
 
 ### Project Demo
 # Video
@@ -94,9 +98,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Aksa Samuval: idea creation,developing
+- Alfiya s: idea creation,developing
+- Adhira R:idea creation,developing
 ---
 Made with ❤️ at TinkerHub
